@@ -1,0 +1,46 @@
+.scrum-details {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #ecf0f1;
+  border-radius: 8px;
+}
+
+.scrum-details h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.scrum-details h4 {
+  color: #3498db;
+  margin-bottom: 0.75rem;
+}
+
+.scrum-details ul {
+  list-style: none;
+  padding: 0;
+}
+
+.scrum-details li {
+  padding: 0.75rem;
+  background: white;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.scrum-details strong {
+  color: #2c3e50;
+}
+
+.scrum-details em {
+  color: #7f8c8d;
+}
+
+.scrum-details select {
+  margin-left: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #bdc3c7;
+  border-radius: 5px;
+  background: #fff;
+  cursor: pointer;
+}
